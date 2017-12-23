@@ -1,0 +1,2 @@
+# CordovaGoogleMaps
+CordovaGoogleMaps plugin
